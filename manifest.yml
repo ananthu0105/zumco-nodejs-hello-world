@@ -1,7 +1,7 @@
 ---
 applications:
 - path: .
-  name: cd0201-8d9-nodesample
+  name: Nodejssathish
   buildpack: sdk-for-nodejs
   memory: 256M
   instances: 1
